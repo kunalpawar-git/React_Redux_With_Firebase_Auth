@@ -1,0 +1,23 @@
+.outerDiv{
+   
+    width: 20%;
+    margin: 0 auto;
+    padding: 20px;
+    background: chartreuse;
+    align-items: center;
+
+}
+.fistName{
+    display: flex;
+    margin: 0 auto;
+}
+
+.wrapper{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.formDiv{
+    margin-bottom: 50x;
+}
